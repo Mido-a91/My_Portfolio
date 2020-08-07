@@ -1,3 +1,2 @@
 # Portfolio
-Data Science Personal Projects
-Ongoing Updates
+Data Science Personal Projects - Ongoing Updates
