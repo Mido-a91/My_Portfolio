@@ -1,3 +1,6 @@
 [submodule "Coursera_Capstone"]
 	path = Coursera_Capstone
 	url = https://github.com/Mido-a91/Coursera_Capstone
+[submodule "Mini-Projects"]
+	path = Mini-Projects
+	url = https://github.com/Mido-a91/Mini-Projects
