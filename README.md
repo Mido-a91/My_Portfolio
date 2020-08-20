@@ -5,7 +5,7 @@ Data Science Personal Projects - Ongoing Updates
 
 2 - Segmenting and Clustering Toronto - K means Clustering and APIs
 
-3 - The Battle of Neighbourhoods - K means Clustering and APIs
+3 - The Battle of Neighbourhoods - K means Clustering and APIs (On Going Repo - Will be added here as Sub)
 
 4 - Video Games Sales - Linear Regression
 
