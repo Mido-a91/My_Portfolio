@@ -4,3 +4,6 @@
 [submodule "Mini-Projects"]
 	path = Mini-Projects
 	url = https://github.com/Mido-a91/Mini-Projects
+[submodule "Segmenting_and_Clustering_Toronto"]
+	path = Segmenting_and_Clustering_Toronto
+	url = https://github.com/Mido-a91/Segmenting_and_Clustering_Toronto
