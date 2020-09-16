@@ -7,3 +7,6 @@
 [submodule "Segmenting_and_Clustering_Toronto"]
 	path = Segmenting_and_Clustering_Toronto
 	url = https://github.com/Mido-a91/Segmenting_and_Clustering_Toronto
+[submodule "The_Battle_of_Neighborhoods"]
+	path = The_Battle_of_Neighborhoods
+	url = https://github.com/Mido-a91/The_Battle_of_Neighborhoods
