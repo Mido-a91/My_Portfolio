@@ -7,7 +7,7 @@
 * Examined OLS assumptions and created a Multiple Linear Regression model using SKlearn.
 * Evaluated the model at Test data using R2 score metric with an accuracy of 80%.
 
-## 2 - [The Battle of Neighbourhoods](https://nbviewer.jupyter.org/github/Mido-a91/The_Battle_of_Neighborhoods/tree/f71e23e66f3ef01751a8a7233e945f2906f691bd) - K means Clustering and APIs 
+## 2 - [The Battle of Neighbourhoods](https://nbviewer.jupyter.org/github/Mido-a91/The_Battle_of_Neighborhoods/blob/f71e23e66f3ef01751a8a7233e945f2906f691bd/The_Battle_of_Neighborhoods%20Notebook.ipynb) - K means Clustering and APIs 
 * ***Business problem***: Segment downtown Venues within Manhattan VS. Toronto for investors
 * Converted New York JSON file to Pandas, and Web Scraped Toronto Neighborhoods data.
 * Examined Neighborhoods’ Descriptive Statistics within Manhattan and Downtown Toronto.
