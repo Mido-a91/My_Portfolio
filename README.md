@@ -1,6 +1,6 @@
 # Portfolio - Data Science Personal Projects
 
-## 1 - [Used Car Sales](https://nbviewer.jupyter.org/https://github.com/Mido-a91/Portfolio/blob/master/Used%20Cars%20Sales%20-%20Linear%20Regression.ipynb) - Linear Regression 
+## 1 - [Used Car Sales](https://nbviewer.jupyter.org/github.com/Mido-a91/Portfolio/blob/master/Used%20Cars%20Sales%20-%20Linear%20Regression.ipynb) - Linear Regression 
 * ***Business problem***: Predict used cars prices based on multiple features for buyers.
 * Implemented Tableau dashboards to explore Brands, Mileages, Engines, & Models features.
 * Incorporated Pandas Data Manipulation Algorithms to create an accurate model.
