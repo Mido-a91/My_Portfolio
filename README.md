@@ -2,7 +2,7 @@
 
 ## 1 - Used Car Sales - Linear Regression
 1. ***Business problem***: Predict used cars prices based on multiple features for buyers.
-2. mplemented Tableau dashboards to explore Brands, Mileages, Engines, & Models features.
+2. Implemented Tableau dashboards to explore Brands, Mileages, Engines, & Models features.
 3. Incorporated Pandas Data Manipulation Algorithms to create an accurate model.
 4. Examined OLS assumptions and created a Multiple Linear Regression model using SKlearn.
 5. Evaluated the model at Test data using R2 score metric with an accuracy of 80%.
