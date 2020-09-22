@@ -21,8 +21,8 @@
 * Conducted Correlation analysis & developed Statistical Models including Linear Regression.
 * Evaluated the models using MAE & MSE metrics, concluding that Lasso Regression is best fit.
 
-## 4 - AudioBooks Subscriptions - Deep Neural Networks
-* Business problem: Classify customers buying new audiobooks, to focus marketing efforts. 
+## 4 - [AudioBooks Subscriptions](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/tree/master/AudioBooks%20Subscriptions%20-%20Deep%20Neural%20Network) - Deep Neural Networks 
+* ***Business problem***: Classify customers buying new audiobooks, to focus marketing efforts. 
 * Balanced, Shuffled and Standardized the Data to avoid Biased Classification in the model. [Preprocessing - Part 1](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/AudioBooks%20Subscriptions%20-%20Deep%20Neural%20Network/1%20-%20Audiobooks_Preprocessing_with_comments.ipynb)
 * Split the data into Train, Validation and Test NPZ files, and loaded them back using NumPy. [Data Loading - Part 2](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/AudioBooks%20Subscriptions%20-%20Deep%20Neural%20Network/2%20-%20Audiobooks_Machine_Learning_Part1_with_comments.ipynb)
 * Incorporated Tensor Flow 2 model using Keras Layers, and compiled using ADAM optimizer. [Data Modelling - P3](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/AudioBooks%20Subscriptions%20-%20Deep%20Neural%20Network/3%20-%20Audiobooks_Machine_Learning_Part2_with_comments.ipynb) & [Data Modelling - P4](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/AudioBooks%20Subscriptions%20-%20Deep%20Neural%20Network/4%20-%20Audiobooks_Machine_Learning_Part3_with_comments.ipynb)
