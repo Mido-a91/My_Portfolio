@@ -37,7 +37,7 @@
 * Evaluated the Model at an accuracy of 80%, and classified the Probability of Absenteeism.
 
 
-## 6 - [Segmenting and Clustering Toronto](https://nbviewer.jupyter.org/github/Mido-a91/Segmenting_and_Clustering_Toronto/tree/e084cfbf96c358d65fd67721d2fc767d059a95d0) - K means Clustering and APIs 
+## 6 - [Segmenting and Clustering Toronto](https://nbviewer.jupyter.org/github/Mido-a91/Segmenting_and_Clustering_Toronto/blob/e084cfbf96c358d65fd67721d2fc767d059a95d0/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto%20-%20Notebook.ipynb) - K means Clustering and APIs 
 * EDA and Data Visualiation on Follium maps (Location Data)
 * K Means Clustering of Foursquare API Toronto Downtown Venues
 
