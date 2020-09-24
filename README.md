@@ -28,7 +28,14 @@
 * Incorporated Tensor Flow 2 model using Keras Layers, and compiled using ADAM optimizer. [Data Modelling - P3](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/AudioBooks%20Subscriptions%20-%20Deep%20Neural%20Network/3%20-%20Audiobooks_Machine_Learning_Part2_with_comments.ipynb) & [Data Modelling - P4](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/AudioBooks%20Subscriptions%20-%20Deep%20Neural%20Network/4%20-%20Audiobooks_Machine_Learning_Part3_with_comments.ipynb)
 * Implemented Early Stopping and Evaluated the model at a Test accuracy of 91%. [Model Evaluation - Part 5](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/AudioBooks%20Subscriptions%20-%20Deep%20Neural%20Network/5%20-%20Audiobooks_Machine_Learning_Part4_with_comments.ipynb)
 
-## 5 - Absenteeism of Employees - Logistic Regression (From Preprocessing to Deployment)
+## 5 -  - Logistic Regression (From Preprocessing to Deployment) [Absenteeism of Employees](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/tree/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression)
+* Business problem: Classify employees absenteeism based on key features. 
+* Pre-processed Categorical variables to Dummies, Sliced and Grouped to reduce features. https://github.com/Mido-a91/My_Portfolio/blob/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression/1%20-%20Preprocessing%20-%20Absenteeism%20-%20Logistic%20Regression%20-%20My%20Trial.ipynb
+* Utilized a Custom Scaler to Standardize only inputs, and Fit data on a Logistic Regression. https://github.com/Mido-a91/My_Portfolio/blob/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression/2%20-%20Logistic%20Regression%20Machine%20Learning.ipynb
+* Interpreted Coefficients, implemented Feature Selection, and applied Backward Elimination.https://github.com/Mido-a91/My_Portfolio/blob/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression/3%20-%20Deployment%20Absenteeism_module'%20COMPLETE.ipynb
+* Pickled Model objects, and Deployed a .py Module containing the Model classes. https://github.com/Mido-a91/My_Portfolio/blob/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression/3%20-%20Deployment%20Absenteeism_module'%20COMPLETE.ipynb
+* Evaluated the Model at an accuracy of 80%, and classified the Probability of Absenteeism.
+
 
 ## 6 - Segmenting and Clustering Toronto - K means Clustering and APIs
 
