@@ -46,4 +46,4 @@
 * Deep Neural Network for Classification of Handwritten Digits 
 * Optimization Algorithm used is ADAM and Loss function (Objective Function) used is 'sparse_categorical_crossentropy'
 
-## 8 - [Mini Projects from Python Algorithms to Machine Learning](https://nbviewer.jupyter.org/github/Mido-a91/Mini-Projects/tree/3226aa7fa17a1f22e056f54e0bf7397df69ec0e3)
+## 8 - [Mini Projects](https://nbviewer.jupyter.org/github/Mido-a91/Mini-Projects/tree/3226aa7fa17a1f22e056f54e0bf7397df69ec0e3) - from Python Algorithms to Machine Learning
