@@ -37,8 +37,13 @@
 * Evaluated the Model at an accuracy of 80%, and classified the Probability of Absenteeism.
 
 
-## 6 - Segmenting and Clustering Toronto - K means Clustering and APIs
+## 6 - [Segmenting and Clustering Toronto](https://nbviewer.jupyter.org/github/Mido-a91/Segmenting_and_Clustering_Toronto/tree/e084cfbf96c358d65fd67721d2fc767d059a95d0) - K means Clustering and APIs 
+* EDA and Data Visualiation on Follium maps (Location Data)
+* K Means Clustering of Foursquare API Toronto Downtown Venues
 
-## 7 - MNIST DataSet - Deep Neural Network
+## 7 - [MNIST DataSet](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/MNIST_DataSet-Deep_Neural_Network.ipynb) - Deep Neural Network 
+* Data Slicing, Shuffling, and Batching into Train, Test and Validation
+* Deep Neural Network for Classification of Handwritten Digits 
+* Optimization Algorithm used is ADAM and Loss function (Objective Function) used is 'sparse_categorical_crossentropy'
 
-## 8 - Mini Projects from Python Algorithms to Machine Learning
+## 8 - [Mini Projects from Python Algorithms to Machine Learning](https://nbviewer.jupyter.org/github/Mido-a91/Mini-Projects/tree/3226aa7fa17a1f22e056f54e0bf7397df69ec0e3)
