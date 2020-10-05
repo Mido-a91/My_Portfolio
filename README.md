@@ -30,10 +30,10 @@
 
 ## 5 - [Absenteeism of Employees](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/tree/master/Absenteeism_of_Employees-Logistic_Regression) - Logistic Regression (From Preprocessing to Deployment) 
 * ***Business problem***: Classify employees absenteeism based on key features. 
-* Pre-processed Categorical variables to Dummies, Sliced and Grouped to reduce features. [Preprocessing - Part 1](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression/1%20-%20Preprocessing%20-%20Absenteeism%20-%20Logistic%20Regression%20-%20My%20Trial.ipynb)
-* Utilized a Custom Scaler to Standardize only inputs, and Fit data on a Logistic Regression. [Data Modelling - Part 2](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression/2%20-%20Logistic%20Regression%20Machine%20Learning.ipynb)
-* Interpreted Coefficients, implemented Feature Selection, and applied Backward Elimination. [Data Modelling Backward Elimination- Part 3](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression/2B%20-%20Logistic%20Regression%20Machine%20Learning%20-%20Copy%20WITH%20BACKWARD%20ELIMINATION.ipynb)
-* Pickled Model objects, and Deployed a .py Module containing the Model classes. [Model Deployment - Part 4](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/Absenteeism%20of%20Employees%20-%20Logistic%20Regression/3%20-%20Deployment%20Absenteeism_module'%20COMPLETE.ipynb)
+* Pre-processed Categorical variables to Dummies, Sliced and Grouped to reduce features. [Preprocessing - Part 1](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/Absenteeism_of_Employees-Logistic_Regression/1%20-%20Preprocessing%20-%20Absenteeism%20-%20Logistic%20Regression%20-%20My%20Trial.ipynb)
+* Utilized a Custom Scaler to Standardize only inputs, and Fit data on a Logistic Regression. [Data Modelling - Part 2](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/Absenteeism_of_Employees-Logistic_Regression/2%20-%20Logistic%20Regression%20Machine%20Learning.ipynb)
+* Interpreted Coefficients, implemented Feature Selection, and applied Backward Elimination. [Data Modelling Backward Elimination- Part 3](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/Absenteeism_of_Employees-Logistic_Regression/2B%20-%20Logistic%20Regression%20Machine%20Learning%20-%20Copy%20WITH%20BACKWARD%20ELIMINATION.ipynb)
+* Pickled Model objects, and Deployed a .py Module containing the Model classes. [Model Deployment - Part 4](https://nbviewer.jupyter.org/github/Mido-a91/My_Portfolio/blob/master/Absenteeism_of_Employees-Logistic_Regression/3%20-%20Deployment%20Absenteeism_module%27%20COMPLETE.ipynb)
 * Evaluated the Model at an accuracy of 80%, and classified the Probability of Absenteeism.
 
 
